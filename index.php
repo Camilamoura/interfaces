@@ -1,3 +1,5 @@
-<?php include_once("includes/header.php");?>
+<?php include("includes/header.php");?>
+<div id="twitter_update_list">
 
-<?php include_once("includes/footer.php");?>
+</div>
+<?php include("includes/footer.php");?>
